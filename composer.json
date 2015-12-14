@@ -1,5 +1,5 @@
 {
-    "name": "rvanasperen/laravel-jade",
+    "name": "linchpinstudios/laravel-jade",
     "description": "Adds support for JadePHP templates to Laravel",
     "tags": [
         "jade",
@@ -10,13 +10,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "René van Asperen",
-            "email": "rvanasperen@gmail.com"
+            "name": "Josh Hagel",
+            "email": "joshhagel@linchpinstudios.com"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/view": ">=5.0",
+        "illuminate/view": ">=5.1",
         "maht0rz/jade": "dev-master"
     },
     "require-dev": {
